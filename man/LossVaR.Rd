@@ -33,6 +33,6 @@ Leopoldo Catania & Mauro Bernardi
 \references{
 Koenker, R., Bassett, G. (1978). Regression quantiles. Econometrica, 46(1), 33-50.
 
-Gonzalez-Rivera G, Lee TH, Mishra S (2004). Forecasting volatility: A reality check based on option pricing, utility function, value-at-risk, and predictive likelihood.' International Journal of Forecasting, 20(4), 629-645. ISSN 0169-2070. \url{doi:http://dx.doi.org/10.1016/j.ijforecast.2003.10.003}. URL \url{http://www.sciencedirect.com/science/article/pii/S0169207003001420}.
+Gonzalez-Rivera G, Lee TH, Mishra S (2004). Forecasting volatility: A reality check based on option pricing, utility function, value-at-risk, and predictive likelihood.' International Journal of Forecasting, 20(4), 629-645. ISSN 0169-2070. URL \url{http://www.sciencedirect.com/science/article/pii/S0169207003001420}.
 }
 

@@ -25,9 +25,9 @@ Leopoldo Catania & Mauro Bernardi
 \references{
 Koenker, R., & Bassett, G. (1978). Regression quantiles. Econometrica, 46(1), 33-50.
 
-Gonzalez-Rivera G, Lee TH, Mishra S (2004). Forecasting volatility: A reality check based on option pricing, utility function, value-at-risk, and predictive likelihood." International Journal of Forecasting, 20(4), 629-645. ISSN 0169-2070. \url{doi:http://dx.doi.org/10.1016/j.ijforecast.2003.10.003}. URL \url{http://www.sciencedirect.com/science/article/pii/S0169207003001420}.
+Gonzalez-Rivera G, Lee TH, Mishra S (2004). Forecasting volatility: A reality check based on option pricing, utility function, value-at-risk, and predictive likelihood." International Journal of Forecasting, 20(4), 629-645. ISSN 0169-2070. URL \url{http://www.sciencedirect.com/science/article/pii/S0169207003001420}.
 
-Hansen PR, Lunde A (2005). A forecast comparison of volatility models: does anything beat a GARCH(1,1)?" Journal of Applied Econometrics, 20(7), 873-889. ISSN 1099-1255. \url{doi:10.1002/jae.800}. URL \url{http://dx.doi.org/10.1002/jae.800}.
+Hansen PR, Lunde A (2005). A forecast comparison of volatility models: does anything beat a GARCH(1,1)?" Journal of Applied Econometrics, 20(7), 873-889. ISSN 1099-1255. URL \url{http://dx.doi.org/10.1002/jae.800}.
 
 Bernardi M. and Catania L. (2014) The Model Confidence Set package for R. URL \url{http://arxiv.org/abs/1410.8504}
 }
