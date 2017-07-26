@@ -4,8 +4,10 @@ export(LossVol)
 export(MCSprocedure)
 import("methods","parallel")
 exportMethods(
-    "show" 
+    "show"
 )
 exportClasses(
-    "SSM" 
+    "SSM"
 )
+importFrom("stats", "ar", "na.omit")
+importFrom("utils", "memory.limit", "object.size")
