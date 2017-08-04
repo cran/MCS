@@ -1,7 +1,7 @@
-b87452a70492448ca6929c2d1afbb640 *DESCRIPTION
+8f88030d092610636521f6d48a87a532 *DESCRIPTION
 7b75cfa05305976e6deb1e9ecd54ae77 *NAMESPACE
-a4a3d7d35d108ceefb422d4c245ef9a6 *R/MCS.R
-ca302028339bccd5714c86c60f0f73bf *THANKS
+c8cb2e7f64c5102fab972ba7885a306c *R/MCS.R
+8a0d9b6e2709bd193840a8d2c316fc63 *THANKS
 291342583cb530ba24a5fbf7adb27d14 *data/Loss.rda
 3becd089321a5815548e8eae8bd351cf *data/STOXXIndexesRet.rda
 adf4f6f40919291540138465e855fc39 *inst/doc/The_Model_Confidence_Set_Package_for_R.pdf
@@ -9,8 +9,8 @@ adf4f6f40919291540138465e855fc39 *inst/doc/The_Model_Confidence_Set_Package_for_
 8882949e44a063a218975f197aa2b678 *man/LossLevel.Rd
 89ebc67f733207bd684dec0ce605afb9 *man/LossVaR.Rd
 28321f7d68901f82618e25001305ecda *man/LossVol.Rd
-81c944ec81fb8c965c1b935f2c4b106c *man/MCS-package.Rd
-db7d44fb4c7d8275afdaa5e422f47b5a *man/MCSprocedure.Rd
+ffd80d4885f5b8615dbcdde54211b1c0 *man/MCS-package.Rd
+4d98dd62843214fe8b0445b251cedf8f *man/MCSprocedure.Rd
 048af1cbc6e18f88d340434656033034 *man/SSM-class.Rd
 5773f4c96a7a0c749047e3f45967d091 *man/SSM-methods.Rd
 be26980e16cb5affd1a6a405a8b17990 *man/STOXXIndexesRet.Rd

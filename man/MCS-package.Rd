@@ -14,11 +14,11 @@ Model Confidence Set procedure
 \tabular{ll}{
 Package: \tab MCS\cr
 Type: \tab Package\cr
-Version: \tab 0.1.0\cr
+Version: \tab 0.1.3\cr
 Date: \tab 2014-07-27\cr
 License: \tab GPL-2\cr
 }
-The R package MCS aims to implement the Model Confidence Set (MCS) procedure recently developed by Hansen et al. (2011). The Hansen's procedure consists on a sequence of tests which permits to construct a set of 'superior' models, where the null hypothesis of Equal Predictive Ability (EPA) is not rejected at a certain confidence level. The EPA statistic tests is calculated for an arbitrary loss function, meaning that we could test models on various aspects, for example punctual forecasts. 
+The R package MCS aims to implement the Model Confidence Set (MCS) procedure recently developed by Hansen et al. (2011). The Hansen's procedure consists on a sequence of tests which permits to construct a set of 'superior' models, where the null hypothesis of Equal Predictive Ability (EPA) is not rejected at a certain confidence level. The EPA statistic tests is calculated for an arbitrary loss function, meaning that we could test models on various aspects, for example punctual forecasts.
 }
 \author{
 Leopoldo Catania & Mauro Bernardi

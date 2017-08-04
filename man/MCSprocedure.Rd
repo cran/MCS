@@ -4,8 +4,8 @@
 \title{MCSprocedure}
 \usage{
 MCSprocedure(Loss, alpha = 0.15, B = 5000, cl = NULL,
-  ram.allocation = T, statistic = "Tmax", k = NULL, min.k = 3,
-  verbose = T)
+                         ram.allocation = TRUE, statistic = "Tmax", k = NULL, min.k = 3,
+                         verbose = TRUE)
 }
 \arguments{
 \item{Loss}{A matrix or something coercible to that (as.matrix) which contains the loss series per each competing model}
